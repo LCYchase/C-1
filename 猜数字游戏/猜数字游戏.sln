@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "猜数字游戏", "猜数字游戏\猜数字游戏.vcxproj", "{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|ARM.Build.0 = Debug|ARM
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|Win32.ActiveCfg = Debug|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|Win32.Build.0 = Debug|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|x64.ActiveCfg = Debug|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|x64.Build.0 = Debug|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Debug|x86.Build.0 = Debug|Win32
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|ARM.ActiveCfg = Release|ARM
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|ARM.Build.0 = Release|ARM
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|Win32.ActiveCfg = Release|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|Win32.Build.0 = Release|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|x64.ActiveCfg = Release|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|x64.Build.0 = Release|x64
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|x86.ActiveCfg = Release|Win32
+		{D7E98B7C-C3DC-4E31-8C8A-C1008B2C58EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0341FF-40A7-448F-A856-1CFD887AD1D3}
+	EndGlobalSection
+EndGlobal

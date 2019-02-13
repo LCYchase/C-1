@@ -24,6 +24,7 @@ void Printing(char arr[3][3],int x,int y) {
 		
 	}
 }
+<<<<<<< HEAD
 //人下棋
 //人下的棋子用“X”表示
 int pepoleplay(char arr[3][3], int x, int y) {
@@ -133,3 +134,6 @@ int shuying(char arr[3][3], int x, int y) {
 		return 1;
 	}
 }
+=======
+//人下棋
+>>>>>>> fce07c49e3beab94a603777b320ebabd849af427

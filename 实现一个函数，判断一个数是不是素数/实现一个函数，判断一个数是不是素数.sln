@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实现一个函数，判断一个数是不是素数", "实现一个函数，判断一个数是不是素数\实现一个函数，判断一个数是不是素数.vcxproj", "{35031B81-753F-43F0-B1DE-6A2D629ABD47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Debug|x64.ActiveCfg = Debug|x64
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Debug|x64.Build.0 = Debug|x64
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Debug|x86.ActiveCfg = Debug|Win32
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Debug|x86.Build.0 = Debug|Win32
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Release|x64.ActiveCfg = Release|x64
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Release|x64.Build.0 = Release|x64
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Release|x86.ActiveCfg = Release|Win32
+		{35031B81-753F-43F0-B1DE-6A2D629ABD47}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57B6A15-E903-4F27-96C4-A4C9BEBB78F3}
+	EndGlobalSection
+EndGlobal
